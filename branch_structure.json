@@ -1,0 +1,18 @@
+{
+  "default_branch": "develop",
+  "branches": [
+    "develop",
+    "fix/issue-1170-api-the-validate-plugin-is-deduplicated-by",
+    "origin"
+  ],
+  "parent": {
+    "develop": null,
+    "fix/issue-1170-api-the-validate-plugin-is-deduplicated-by": "develop",
+    "origin": "develop"
+  },
+  "order": [
+    "develop",
+    "fix/issue-1170-api-the-validate-plugin-is-deduplicated-by",
+    "origin"
+  ]
+}
